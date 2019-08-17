@@ -1,1 +1,1 @@
-# PheCha - Chatter with Python -
+# MSAGE - Messenger with Python -
